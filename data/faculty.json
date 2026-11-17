@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Anjali Deshmukh",
+    "designation": "Professor & Head of Department",
+    "department": "Computer Engineering",
+    "qualification": "Ph.D. in Computer Science",
+    "experience": 18,
+    "email": "anjali.deshmukh@smartcollege.example",
+    "subjects": ["Operating Systems", "Database Management Systems"]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Rahul Kulkarni",
+    "designation": "Associate Professor & Head of Department",
+    "department": "Artificial Intelligence & Data Science",
+    "qualification": "Ph.D. in Data Science",
+    "experience": 12,
+    "email": "rahul.kulkarni@smartcollege.example",
+    "subjects": ["Machine Learning", "Statistics for Data Science"]
+  },
+  {
+    "id": 3,
+    "name": "Prof. Sneha Patil",
+    "designation": "Associate Professor",
+    "department": "Information Technology",
+    "qualification": "M.Tech in Information Technology",
+    "experience": 14,
+    "email": "sneha.patil@smartcollege.example",
+    "subjects": ["Web Technology", "Cloud Computing"]
+  },
+  {
+    "id": 4,
+    "name": "Dr. Vikram Joshi",
+    "designation": "Professor",
+    "department": "Electronics & Telecommunication",
+    "qualification": "Ph.D. in Electronics",
+    "experience": 20,
+    "email": "vikram.joshi@smartcollege.example",
+    "subjects": ["Digital Signal Processing", "Embedded Systems"]
+  },
+  {
+    "id": 5,
+    "name": "Prof. Neha Gaikwad",
+    "designation": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "qualification": "M.Tech in Thermal Engineering",
+    "experience": 8,
+    "email": "neha.gaikwad@smartcollege.example",
+    "subjects": ["Thermodynamics", "Fluid Mechanics"]
+  },
+  {
+    "id": 6,
+    "name": "Prof. Amit Bhosale",
+    "designation": "Assistant Professor",
+    "department": "Civil Engineering",
+    "qualification": "M.Tech in Structural Engineering",
+    "experience": 7,
+    "email": "amit.bhosale@smartcollege.example",
+    "subjects": ["Structural Analysis", "Surveying"]
+  }
+]
