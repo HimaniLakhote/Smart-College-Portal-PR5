@@ -1,0 +1,80 @@
+[
+  {
+    "id": "comp",
+    "name": "Computer Engineering",
+    "code": "CE",
+    "hod": "Dr. Anjali Deshmukh",
+    "intake": 120,
+    "established": 2004,
+    "description": "Covers programming, algorithms, operating systems, databases and software engineering with regular lab work and mini projects.",
+    "courses": [
+      "B.Tech Computer Engineering (4 years)",
+      "M.Tech Computer Engineering (2 years)"
+    ]
+  },
+  {
+    "id": "aids",
+    "name": "Artificial Intelligence & Data Science",
+    "code": "AIDS",
+    "hod": "Dr. Rahul Kulkarni",
+    "intake": 120,
+    "established": 2020,
+    "description": "Focuses on machine learning, data analytics, deep learning and statistics, with hands-on practice using real datasets.",
+    "courses": [
+      "B.Tech Artificial Intelligence & Data Science (4 years)",
+      "Certificate in Applied Machine Learning (6 months)"
+    ]
+  },
+  {
+    "id": "it",
+    "name": "Information Technology",
+    "code": "IT",
+    "hod": "Dr. Sneha Patil",
+    "intake": 120,
+    "established": 2006,
+    "description": "Teaches web technologies, networking, cloud computing and information security needed for modern IT careers.",
+    "courses": [
+      "B.Tech Information Technology (4 years)",
+      "Diploma in Web Development (1 year)"
+    ]
+  },
+  {
+    "id": "entc",
+    "name": "Electronics & Telecommunication",
+    "code": "ENTC",
+    "hod": "Dr. Vikram Joshi",
+    "intake": 120,
+    "established": 2004,
+    "description": "Includes digital electronics, embedded systems, signal processing and communication systems with a well-equipped electronics lab.",
+    "courses": [
+      "B.Tech Electronics & Telecommunication (4 years)",
+      "M.Tech VLSI & Embedded Systems (2 years)"
+    ]
+  },
+  {
+    "id": "mech",
+    "name": "Mechanical Engineering",
+    "code": "ME",
+    "hod": "Dr. Suresh Pawar",
+    "intake": 90,
+    "established": 2004,
+    "description": "Deals with thermodynamics, machine design, manufacturing and robotics, supported by a workshop and CAD/CAM lab.",
+    "courses": [
+      "B.Tech Mechanical Engineering (4 years)",
+      "M.Tech Thermal Engineering (2 years)"
+    ]
+  },
+  {
+    "id": "civil",
+    "name": "Civil Engineering",
+    "code": "CV",
+    "hod": "Dr. Meera Kale",
+    "intake": 90,
+    "established": 2008,
+    "description": "Covers structural design, surveying, construction management and environmental engineering with field visits and site training.",
+    "courses": [
+      "B.Tech Civil Engineering (4 years)",
+      "M.Tech Structural Engineering (2 years)"
+    ]
+  }
+]
